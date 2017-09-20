@@ -1,0 +1,84 @@
+.periodicTable {
+    width: 100%;
+    padding: 20%;
+    position: relative;
+    font-family: 'Roboto', sans-serif, Verdana, Geneva, Tahoma, Arial;
+    font-weight: 100;
+}
+.rows {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+.row {
+    height: 14.28571428571428%;
+}
+
+.elementContainer {
+    float: left;
+    height: 100%;
+    width: 5.555555%;
+    position: relative;
+}
+.element {
+    position: absolute;
+    width: auto;
+    top: 50%;
+    left: 50%;
+    right: 50%;
+    bottom: 50%;  
+    padding: 0;
+
+    background-color: red;
+    transition: all 200ms ease-out;
+    transition-property: top, right, left, bottom;
+    overflow: hidden;
+    color: white;
+    text-shadow: 0 0 2px black;
+}
+.element.show {
+    top: 4%;
+    left: 4%;
+    right: 4%;
+    bottom: 4%; 
+    padding: 8%;
+}
+.element:hover {
+    top: -50%;
+    left: -50%;
+    right: -50%;
+    bottom: -50%;
+    z-index: 5;
+    box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.5), 0 0 60px 10px rgba(0, 0, 0, 0.4);
+}
+.element * {
+    font-size: 70%;
+    height: 30%;
+    position: relative;
+    display: block;
+    margin: 0;
+    float: left;
+    clear: both;
+}
+.element .elementNumber {
+    font-size: 40%;
+}
+.element:hover .elementNumber {
+    font-size: 80%;
+}
+.element .elementAbbreviation {
+    font-size: 80%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+.element:hover .elementAbbreviation {
+    font-size: 160%;
+}
+.element .elementTitle {
+    font-size: 40%;
+}
+.element:hover .elementTitle {
+    font-size: 80%;
+}
