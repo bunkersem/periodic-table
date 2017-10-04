@@ -122,19 +122,26 @@
         "title": "Oxygen"
       },
       {
-        "groupId": 6
-        
+        "groupId": 6,
+        "abbreviation": "F",
+        "title": "Fluorine"
       },
       {
-        "groupId": 7
+        "groupId": 7,
+        "abbreviation": "Ne",
+        "title": "Neon"
       }
     ],
     [
       {
-        "groupId": 1
+        "groupId": 1,
+        "abbreviation": "Na",
+        "title": "Sodium"
       },
       {
-        "groupId": 2
+        "groupId": 2,
+        "abbreviation": "Mg",
+        "title": "Magnesium"
       },
       null,
       null,
@@ -147,246 +154,402 @@
       null,
       null,
       {
-        "groupId": 4
+        "groupId": 4,
+        "abbreviation": "Al",
+        "title": "Aluminium"
       },
       {
-        "groupId": 5
+        "groupId": 5,
+        "abbreviation": "Si",
+        "title": "Silicon"
       },
       {
-        "groupId": 0
+        "groupId": 0,
+        "abbreviation": "P",
+        "title": "Phosphorus"
       },
       {
-        "groupId": 0
+        "groupId": 0,
+        "abbreviation": "S",
+        "title": "Sulfur"
       },
       {
-        "groupId": 6
+        "groupId": 6,
+        "abbreviation": "Cl",
+        "title": "Chlorine"
       },
       {
-        "groupId": 7
+        "groupId": 7,
+        "abbreviation": "Ar",
+        "title": "Argon"
       }
     ],
     [
       {
-        "groupId": 1
+        "groupId": 1,
+        "abbreviation": "K",
+        "title": "Potassium"
       },
       {
-        "groupId": 2
+        "groupId": 2,
+        "abbreviation": "Ca",
+        "title": "Calcium"
       },
       {
-        "groupId": 3
+        "groupId": 3,
+        "abbreviation": "Sc",
+        "title": "Scandium"
       },
       {
-        "groupId": 3
+        "groupId": 3,
+        "abbreviation": "Ti",
+        "title": "Titanium"
       },
       {
-        "groupId": 3
+        "groupId": 3,
+        "abbreviation": "V",
+        "title": "Vanadium"
       },
       {
-        "groupId": 3
+        "groupId": 3,
+        "abbreviation": "Cr",
+        "title": "Chromium"
       },
       {
-        "groupId": 3
+        "groupId": 3,
+        "abbreviation": "Mn",
+        "title": "Manganese"
       },
       {
-        "groupId": 3
+        "groupId": 3,
+        "abbreviation": "Fe",
+        "title": "Iron"
       },
       {
-        "groupId": 3
+        "groupId": 3,
+        "abbreviation": "Co",
+        "title": "Cobalt"
       },
       {
-        "groupId": 3
+        "groupId": 3,
+        "abbreviation": "Ni",
+        "title": "Nickel"
       },
       {
-        "groupId": 3
+        "groupId": 3,
+        "abbreviation": "Cu",
+        "title": "Copper"
       },
       {
-        "groupId": 3
+        "groupId": 3,
+        "abbreviation": "Zn",
+        "title": "Zinc"
       },
       {
-        "groupId": 4
+        "groupId": 4,
+        "abbreviation": "Ga",
+        "title": "Gallium"
       },
       {
-        "groupId": 5
+        "groupId": 5,
+        "abbreviation": "Ge",
+        "title": "Germanium"
       },
       {
-        "groupId": 5
+        "groupId": 5,
+        "abbreviation": "As",
+        "title": "Arsenic"
       },
       {
-        "groupId": 0
+        "groupId": 0,
+        "abbreviation": "Se",
+        "title": "Selenium"
       },
       {
-        "groupId": 6
+        "groupId": 6,
+        "abbreviation": "Br",
+        "title": "Bromine"
       },
       {
-        "groupId": 7
+        "groupId": 7,
+        "abbreviation": "Kr",
+        "title": "Krypton"
       }
     ],
     [
       {
-        "groupId": 1
+        "groupId": 1,
+        "abbreviation": "Rb",
+        "title": "Rubidium"
       },
       {
-        "groupId": 2
+        "groupId": 2,
+        "abbreviation": "Sr",
+        "title": "Strontium"
       },
       {
-        "groupId": 3
+        "groupId": 3,
+        "abbreviation": "Y",
+        "title": "Yttrium"
       },
       {
-        "groupId": 3
+        "groupId": 3,
+        "abbreviation": "Zr",
+        "title": "Zirconium"
       },
       {
-        "groupId": 3
+        "groupId": 3,
+        "abbreviation": "Nb",
+        "title": "Niobium"
       },
       {
-        "groupId": 3
+        "groupId": 3,
+        "abbreviation": "Mo",
+        "title": "Molybdenum"
       },
       {
-        "groupId": 3
+        "groupId": 3,
+        "abbreviation": "Tc",
+        "title": "Technetium"
       },
       {
-        "groupId": 3
+        "groupId": 3,
+        "abbreviation": "Ru",
+        "title": "Ruthenium"
       },
       {
-        "groupId": 3
+        "groupId": 3,
+        "abbreviation": "Rh",
+        "title": "Rhodium"
       },
       {
-        "groupId": 3
+        "groupId": 3,
+        "abbreviation": "Pd",
+        "title": "Palladium"
       },
       {
-        "groupId": 3
+        "groupId": 3,
+        "abbreviation": "Ag",
+        "title": "Silver"
       },
       {
-        "groupId": 3
+        "groupId": 3,
+        "abbreviation": "Cd",
+        "title": "Cadmium"
       },
       {
-        "groupId": 4
+        "groupId": 4,
+        "abbreviation": "In",
+        "title": "Indium"
       },
       {
-        "groupId": 4
+        "groupId": 4,
+        "abbreviation": "Sn",
+        "title": "Tin"
       },
       {
-        "groupId": 5
+        "groupId": 5,
+        "abbreviation": "Sb",
+        "title": "Antimony"
       },
       {
-        "groupId": 5
+        "groupId": 5,
+        "abbreviation": "Te",
+        "title": "Tellurium"
       },
       {
-        "groupId": 6
+        "groupId": 6,
+        "abbreviation": "I",
+        "title": "Iodine"
       },
       {
-        "groupId": 7
+        "groupId": 7,
+        "abbreviation": "Xe",
+        "title": "Xenon"
       }
     ],
     [
       {
-        "groupId": 1
+        "groupId": 1,
+        "abbreviation": "Cs",
+        "title": "Cesium"
       },
       {
-        "groupId": 2
+        "groupId": 2,
+        "abbreviation": "Ba",
+        "title": "Barium"
       },
       {
-        "groupId": 3
+        "groupId": 3,
+        "abbreviation": "La",
+        "title": "Lanthanum"
       },
       {
-        "groupId": 3
+        "groupId": 3,
+        "abbreviation": "Ce",
+        "title": "Cerium"
       },
       {
-        "groupId": 3
+        "groupId": 3,
+        "abbreviation": "Pr",
+        "title": "Praseodymium"
       },
       {
-        "groupId": 3
+        "groupId": 3,
+        "abbreviation": "Nd",
+        "title": "Neodymium"
       },
       {
-        "groupId": 3
+        "groupId": 3,
+        "abbreviation": "Pm",
+        "title": "Promethium"
       },
       {
-        "groupId": 3
+        "groupId": 3,
+        "abbreviation": "Sm",
+        "title": "Samarium"
       },
       {
-        "groupId": 3
+        "groupId": 3,
+        "abbreviation": "Eu",
+        "title": "Europium"
       },
       {
-        "groupId": 3
+        "groupId": 3,
+        "abbreviation": "Gd",
+        "title": "Gadolinium"
       },
       {
-        "groupId": 3
+        "groupId": 3,
+        "abbreviation": "Tb",
+        "title": "Terbium"
       },
       {
-        "groupId": 3
+        "groupId": 3,
+        "abbreviation": "Dy",
+        "title": "Dysprosium"
       },
       {
-        "groupId": 4
+        "groupId": 4,
+        "abbreviation": "Ho",
+        "title": "Holmium"
       },
       {
-        "groupId": 4
+        "groupId": 4,
+        "abbreviation": "Er",
+        "title": "Erbium"
       },
       {
-        "groupId": 4
+        "groupId": 4,
+        "abbreviation": "Tm",
+        "title": "Thulium"
       },
       {
-        "groupId": 5
+        "groupId": 5,
+        "abbreviation": "Yb",
+        "title": "Ytterbium"
       },
       {
-        "groupId": 6
+        "groupId": 6,
+        "abbreviation": "Lu",
+        "title": "Lutetium"
       },
       {
-        "groupId": 7
+        "groupId": 7,
+        "abbreviation": "Hf",
+        "title": "Hafnium"
       }
     ],
     [
       {
-        "groupId": 1
+        "groupId": 1,
+        "abbreviation": "Ta",
+        "title": "Tantalum"
       },
       {
-        "groupId": 2
+        "groupId": 2,
+        "abbreviation": "W",
+        "title": "Tungsten"
       },
       {
-        "groupId": 3
+        "groupId": 3,
+        "abbreviation": "Re",
+        "title": "Rhenium"
       },
       {
-        "groupId": 3
+        "groupId": 3,
+        "abbreviation": "Os",
+        "title": "Osmium"
       },
       {
-        "groupId": 3
+        "groupId": 3,
+        "abbreviation": "Ir",
+        "title": "Iridium"
       },
       {
-        "groupId": 3
+        "groupId": 3,
+        "abbreviation": "Pt",
+        "title": "Platinum"
       },
       {
-        "groupId": 3
+        "groupId": 3,
+        "abbreviation": "Au",
+        "title": "Gold"
       },
       {
-        "groupId": 3
+        "groupId": 3,
+        "abbreviation": "Hg",
+        "title": "Mercury"
       },
       {
-        "groupId": 3
+        "groupId": 3,
+        "abbreviation": "Tl",
+        "title": "Thallium"
       },
       {
-        "groupId": 3
+        "groupId": 3,
+        "abbreviation": "Pb",
+        "title": "Lead"
       },
       {
-        "groupId": 3
+        "groupId": 3,
+        "abbreviation": "Bi",
+        "title": "Bismuth"
       },
       {
-        "groupId": 3
+        "groupId": 3,
+        "abbreviation": "Po",
+        "title": "Polonium"
       },
       {
-        "groupId": 4
+        "groupId": 4,
+        "abbreviation": "At",
+        "title": "Astatine"
       },
       {
-        "groupId": 4
+        "groupId": 4,
+        "abbreviation": "Rn",
+        "title": "Radon"
       },
       {
-        "groupId": 4
+        "groupId": 4,
+        "abbreviation": "Fr",
+        "title": "Francium"
       },
       {
-        "groupId": 4
+        "groupId": 4,
+        "abbreviation": "Ra",
+        "title": "Radium"
       },
       {
-        "groupId": 6
+        "groupId": 6,
+        "abbreviation": "Ac",
+        "title": "Actinium"
       },
       {
-        "groupId": 7
+        "groupId": 7,
+        "abbreviation": "Th",
+        "title": "Thorium"
       }
     ]
   ]

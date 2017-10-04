@@ -1,0 +1,393 @@
+{
+  "elementGroups": [
+    {
+      "id": 0,
+      "title": "group1",
+      "color": "#d3d3d3"
+    },
+    {
+      "id": 1,
+      "title": "group2",
+      "color": "#f0f465"
+    },
+    {
+      "id": 2,
+      "title": "group3",
+      "color": "#c3423f"
+    },
+    {
+      "id": 3,
+      "title": "group4",
+      "color": "#533a71"
+    },
+    {
+      "id": 4,
+      "title": "group5",
+      "color": "#9cec5b"
+    },
+    {
+      "id": 5,
+      "title": "group6",
+      "color": "#bbef4a"
+    },
+    {
+      "id": 6,
+      "title": "group7",
+      "color": "#50c5b7"
+    },
+    {
+      "id": 7,
+      "title": "group8",
+      "color": "#6184d8"
+    },
+    {
+      "id": 8,
+      "title": "group9",
+      "color": "#ce6c47"
+    },
+    {
+      "id": 9,
+      "title": "group10",
+      "color": "#241e4e"
+    }
+  ],
+  "entries": [
+    [
+      {
+        "groupId": 0,
+        "abbreviation": "H",
+        "title": "Hydrogen"
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "groupId": 7,
+        "abbreviation": "He",
+        "title": "Helium"
+      }
+    ],
+    [
+      {
+        "groupId": 1,
+        "abbreviation": "Li",
+        "title": "Lithium"
+      },
+      {
+        "groupId": 2,
+        "abbreviation": "Be",
+        "title": "Beryllium"
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "groupId": 5,
+        "abbreviation": "B",
+        "title": "Boron"
+      },
+      {
+        "groupId": 0,
+        "abbreviation": "C",
+        "title": "Carbon"
+      },
+      {
+        "groupId": 0,
+        "abbreviation": "N",
+        "title": "Nitrogen"
+      },
+      {
+        "groupId": 0,
+        "abbreviation": "O",
+        "title": "Oxygen"
+      },
+      {
+        "groupId": 6
+        
+      },
+      {
+        "groupId": 7
+      }
+    ],
+    [
+      {
+        "groupId": 1
+      },
+      {
+        "groupId": 2
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "groupId": 4
+      },
+      {
+        "groupId": 5
+      },
+      {
+        "groupId": 0
+      },
+      {
+        "groupId": 0
+      },
+      {
+        "groupId": 6
+      },
+      {
+        "groupId": 7
+      }
+    ],
+    [
+      {
+        "groupId": 1
+      },
+      {
+        "groupId": 2
+      },
+      {
+        "groupId": 3
+      },
+      {
+        "groupId": 3
+      },
+      {
+        "groupId": 3
+      },
+      {
+        "groupId": 3
+      },
+      {
+        "groupId": 3
+      },
+      {
+        "groupId": 3
+      },
+      {
+        "groupId": 3
+      },
+      {
+        "groupId": 3
+      },
+      {
+        "groupId": 3
+      },
+      {
+        "groupId": 3
+      },
+      {
+        "groupId": 4
+      },
+      {
+        "groupId": 5
+      },
+      {
+        "groupId": 5
+      },
+      {
+        "groupId": 0
+      },
+      {
+        "groupId": 6
+      },
+      {
+        "groupId": 7
+      }
+    ],
+    [
+      {
+        "groupId": 1
+      },
+      {
+        "groupId": 2
+      },
+      {
+        "groupId": 3
+      },
+      {
+        "groupId": 3
+      },
+      {
+        "groupId": 3
+      },
+      {
+        "groupId": 3
+      },
+      {
+        "groupId": 3
+      },
+      {
+        "groupId": 3
+      },
+      {
+        "groupId": 3
+      },
+      {
+        "groupId": 3
+      },
+      {
+        "groupId": 3
+      },
+      {
+        "groupId": 3
+      },
+      {
+        "groupId": 4
+      },
+      {
+        "groupId": 4
+      },
+      {
+        "groupId": 5
+      },
+      {
+        "groupId": 5
+      },
+      {
+        "groupId": 6
+      },
+      {
+        "groupId": 7
+      }
+    ],
+    [
+      {
+        "groupId": 1
+      },
+      {
+        "groupId": 2
+      },
+      {
+        "groupId": 3
+      },
+      {
+        "groupId": 3
+      },
+      {
+        "groupId": 3
+      },
+      {
+        "groupId": 3
+      },
+      {
+        "groupId": 3
+      },
+      {
+        "groupId": 3
+      },
+      {
+        "groupId": 3
+      },
+      {
+        "groupId": 3
+      },
+      {
+        "groupId": 3
+      },
+      {
+        "groupId": 3
+      },
+      {
+        "groupId": 4
+      },
+      {
+        "groupId": 4
+      },
+      {
+        "groupId": 4
+      },
+      {
+        "groupId": 5
+      },
+      {
+        "groupId": 6
+      },
+      {
+        "groupId": 7
+      }
+    ],
+    [
+      {
+        "groupId": 1
+      },
+      {
+        "groupId": 2
+      },
+      {
+        "groupId": 3
+      },
+      {
+        "groupId": 3
+      },
+      {
+        "groupId": 3
+      },
+      {
+        "groupId": 3
+      },
+      {
+        "groupId": 3
+      },
+      {
+        "groupId": 3
+      },
+      {
+        "groupId": 3
+      },
+      {
+        "groupId": 3
+      },
+      {
+        "groupId": 3
+      },
+      {
+        "groupId": 3
+      },
+      {
+        "groupId": 4
+      },
+      {
+        "groupId": 4
+      },
+      {
+        "groupId": 4
+      },
+      {
+        "groupId": 4
+      },
+      {
+        "groupId": 6
+      },
+      {
+        "groupId": 7
+      }
+    ]
+  ]
+}
